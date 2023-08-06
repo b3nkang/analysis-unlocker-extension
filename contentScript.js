@@ -1,4 +1,3 @@
-//alert("contenScript entrance");
 setTimeout(buttonTestOne, 1000);  
 
 let buttonSum = 0;

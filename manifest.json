@@ -1,11 +1,11 @@
 {
     "manifest_version": 3,
-    "name": "Analysis Unlocker",
+    "name": "Analysis Unlocker v0.2",
     "description": "Libre moment for chess, long live free analysis with fancy icons",
     "version": "0.2.2",
     "content_scripts": [
         {
-            "js": ["scripts/contentScript.js"],
+            "js": ["contentScript.js"],
             "matches": [
                 "https://www.chess.com/member/*"
             ]
