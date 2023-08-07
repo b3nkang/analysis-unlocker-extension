@@ -1,6 +1,6 @@
 # Analysis Unlocker (v0.2.4)
 
-This is a local (unpacked) Google Chrome extension, built on Manifest V3, that allows you to access subscription-based Game Review analysis in Chess.com—all without having to pay.
+This is a locally installed (unpacked) Google Chrome extension, built on Manifest V3, that allows you to access subscription-based Game Review analysis in Chess.com—all without having to pay.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Now, type the following into your Chrome search bar:
 ```bash
 chrome://extensions/
 ```
-This will open you on the site with all of your installed Chrome extensions. '=
+This will open you on the site with all of your installed Chrome extensions.
 
 On the site, go to the top right corner and toggle `developer mode` on. Then, in the top left hand side of the banner, under the big "Extensions" text, there should be a `load unpacked` button. Press it, and upload the folder with the extension. 
 
