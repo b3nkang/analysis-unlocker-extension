@@ -33,7 +33,7 @@ In both locations, the extension will install `unlock analysis` buttons, each co
 
 ## How to 'unlock' analysis (read: *proper* usage)
 
-Press the `unlock analysis` button next to ONE GAME in either of the aforementioned pages.
+Press the `unlock analysis` button next to **<ins>one game</ins>** in either of the aforementioned pages.
  
 **<ins>Only press it ONCE</ins>**, or else you may overload the server. 
 
@@ -45,7 +45,7 @@ The review should be unlocked. If in your profile page/homepage your game has ac
 
 The amount of time it takes for the extension to add the `unlock analysis` buttons and for the server to unlock your game is largely a function of your internet speed and region, as well as the number of requests the server is handling.
 
-The extension is configured to strike a balance between efficiency and redundancy: enough time for the supermajority of requests to complete without fail, but not too slow as to taken laborious amounts of time to unlock.
+The extension is configured to strike a balance between efficiency and redundancy: enough time for the supermajority of requests to complete without fail, but not too slow as to take laborious amounts of time to unlock.
 
 This is to say, there are multiple cases where you may be more likely to—and/or more reliably able to—produce errors, depending on improper usage of the extension:
 
@@ -53,9 +53,9 @@ This is to say, there are multiple cases where you may be more likely to—and/o
 
 If your internet connection is not as strong, your game log on Chess.com may take too long to load, and, consequently, the button-injection from the extension (1 second after page load) will miss the targeted log. 
 
-This is particularly common the further down on a page you are scrolled, as Chess.com renders elements top-to-bottom and, for some reason, is far slower to render the bottom elements (i.e. your game log) if you refresh the page from an existing position lower on the page.
+This is particularly common the further down on a page you are scrolled, as Chess.com renders elements top-to-bottom and, for some reason, is far slower to render the bottom elements (i.e. your game log). So, if you refresh your page from an existing position that is near the bottom, the buttons may not render.
 
-This is to say, when you refresh your page to see if the analysis has cleared, scroll to the *top* of the page to refresh, to avoid this problem.
+This is to say, when you refresh your page to see if the analysis has cleared, first scroll to the *top* of the page and then refresh, which should avoid this problem.
 
 ### Analysis not unlocking
 
