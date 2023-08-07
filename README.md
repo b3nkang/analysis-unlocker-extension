@@ -11,9 +11,9 @@ Now, type the following into your Chrome search bar:
 chrome://extensions/
 ```
 This will open you on the site with all of your installed Chrome extensions.
-On the site, go to the top right corner and toggle "developer mode" on. Then, in the top left hand side of the banner, under the big "Extensions" text, there should be a "load unpacked" button. Press it, and upload the folder with the extension. 
+On the site, go to the top right corner and toggle `developer mode` on. Then, in the top left hand side of the banner, under the big "Extensions" text, there should be a `load unpacked` button. Press it, and upload the folder with the extension. 
 
-Pin the extension to your Extensions bar if you want - it will automatically adjust your Chess.com UI to include an "unlock analysis" button.
+Pin the extension to your Extensions bar if you want - it will automatically adjust your Chess.com UI to include an `unlock analysis` button.
 
 
 ## Where to 'unlock' analysis
@@ -38,5 +38,5 @@ Press the `unlock analysis` button to ONE GAME in either of the aforementioned p
 
 The backend server will take 10-20 seconds to unlock your analysis. In the meantime, you can navigate away from the page, or do whatever you like. After around 20-30 seconds (depending on your internet speed), refresh your page, and click into the analysis of the game whose button you had pressed. 
 
-The review should be unlocked. If in your profile page/homepage your game has accuracy percentages (as opposed to the text that says "review"), it means the game has been unlocked. If not, click into the game and see if you can access analysis. If it still is locked, wait 30 more seconds and refresh. If still not unlocked, try the "unlock analysis" button.
+The review should be unlocked. If in your profile page/homepage your game has accuracy percentages (as opposed to the text that says `review`), it means the game has been unlocked. If not, click into the game and see if you can access analysis. If it still is locked, wait 30 more seconds and refresh. If still not unlocked, try the "unlock analysis" button.
 
