@@ -1,4 +1,4 @@
-# Analysis Unlocker
+# Analysis Unlocker (v0.2.4)
 
 This is a locally installed extension that allows you to retain your silly little icons and aesthetic messages when you run Game Review analysis in Chess.com—all without paying for a subscription.
 
@@ -27,14 +27,14 @@ You will be able to unlock analysis from two pages:
 # your public-facing profile 
   chess.com/member/your-username
 ```
-In both locations, the extension will install `unlock analysis` buttons, which can be found next to where your game history is traditionally displayed on both pages.
+In both locations, the extension will install `unlock analysis` buttons, each corresponding to one game that you played, and displayed adjacent to where your games are traditionally displayed (on both pages).
 
 
 ## How to 'unlock' analysis (read: *proper* usage)
 
-Press the `unlock analysis` button to ONE GAME in either of the aforementioned pages.
+Press the `unlock analysis` button next to ONE GAME in either of the aforementioned pages.
  
-**Only press it ONCE**, or else you may overload the server. 
+**<ins>Only press it ONCE</ins>**, or else you may overload the server. 
 
 The backend server will take 10-20 seconds to unlock your analysis. In the meantime, you can navigate away from the page, or do whatever you like. After around 20-30 seconds (depending on your internet speed), refresh your page, and click into the analysis of the game whose button you had pressed. 
 
