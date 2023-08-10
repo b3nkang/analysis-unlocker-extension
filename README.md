@@ -43,11 +43,7 @@ The backend server will take 10-20 seconds to unlock your analysis. You will see
 
 ## Video Installation and Demo
 
-Watch an installation walkthrough and demo of the extension on MacOS.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:62.218%;">
-  <iframe src="https://streamable.com/e/zur0zl" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
-</div>
+If you need further clarification, [click here](https://streamable.com/zur0zl?src=player-page-share) to watch a video walkthrough of the installation and demo of the extension.
 
 ## Known limitations and errors
 
