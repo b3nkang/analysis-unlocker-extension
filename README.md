@@ -4,7 +4,7 @@ This is a locally installed (unpacked) Google Chrome extension, built on Manifes
 
 ## Installation
 
-Download all files in the repo and store them in a folder. It doesn't really matter where, just make sure you are able to locate the folder and that all the files are together.
+Download all files in the repo by going to the green `Code` button above. Click it, then press `Download Zip` and extract the folder. It doesn't really matter where in your files this happens, just make sure you are able to locate the folder.
 
 Now, type the following into your Chrome search bar:
 ```bash
