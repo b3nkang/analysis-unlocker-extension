@@ -37,11 +37,9 @@ Press the `unlock analysis` button next to **<ins>one game</ins>** in either of 
  
 **<ins>Only press it ONCE</ins>**, or else you may overload the server. 
 
-The backend server will take 10-20 seconds to unlock your analysis. You will see a loading bar pop up, showing the progress of the unlock. Once bar spans the width of your screen, the unlock (in the supermajority of cases) will have completed, and the extension will automatically refresh your screen. 
+The backend server will take 10-20 seconds to unlock your analysis. You will see a loading bar pop up, showing the progress of the unlock. Once the loading completes, the extension will automatically open your Game Review analysis in a new tab. 
 
-In the meantime, you can navigate away from the page, or do whatever you like. After 20-30 seconds (depending on your internet speed), you can check back and click into the analysis of the game whose button you had pressed. 
-
-The review should be unlocked. If in your profile page/homepage your game has accuracy percentages (as opposed to the text that says `review`),it means the game has been unlocked. If it still is locked, wait ~10 more seconds and refresh. If still not unlocked, try the "unlock analysis" button again.
+**Do not navigate away from your page while the loading takes page**. You **may** switch tabs, so long as the Chess.com tab with the analysis stays open. If you navigate backwards or forward on the Chess.com page, however, your request may not complete.
 
 ## Known limitations and errors
 
@@ -61,5 +59,5 @@ This is to say, when you refresh your page to see if the analysis has cleared, f
 
 ### Analysis not unlocking
 
-If you have clicked on a button once, **do NOT click it again**! The server will already be completing your first request, and doing it again will slow down both the completion of your first request and your second. DO NOT do this!
+If you have clicked on a button once and you see your loading bar populating, **do NOT click it again**! The server will already be completing your first request, and doing it again will slow down both the completion of your first request and your second. DO NOT do this!
 
