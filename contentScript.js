@@ -23,7 +23,7 @@ const overlayCSS = `
         background-color: #fff;
         border-radius: 10px;
         position: relative;
-        animation: loading 8s linear infinite;
+        animation: loading 15s linear infinite;
     }
 
     @keyframes loading {
@@ -48,7 +48,7 @@ function createOverlay() {
     setTimeout(() => {
         document.body.removeChild(overlay);
         window.location.reload(); 
-    }, 8000); // bk note - adjustment here and in the css
+    }, 15000); // bk note - adjustment here and in the css
 }
 
 
