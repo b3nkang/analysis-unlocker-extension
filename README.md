@@ -41,6 +41,14 @@ The backend server will take 10-20 seconds to unlock your analysis. You will see
 
 **Do not navigate away from your page while the loading takes page**. You **may** switch tabs, so long as the Chess.com tab with the analysis stays open. If you navigate backwards or forward on the Chess.com page, however, your request may not complete.
 
+## Video Installation and Demo
+
+Watch an installation walkthrough and demo of the extension on MacOS.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.218%;">
+  <iframe src="https://streamable.com/e/zur0zl" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
+</div>
+
 ## Known limitations and errors
 
 The amount of time it takes for the extension to add the `unlock analysis` buttons and for the server to unlock your game is largely a function of your internet speed and region, as well as the number of requests the server is handling.
