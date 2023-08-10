@@ -1,4 +1,4 @@
-# Analysis Unlocker (v0.2.4)
+# Analysis Unlocker (v0.2.5)
 
 This is a locally installed (unpacked) Google Chrome extension, built on Manifest V3, that allows you to access subscription-based Game Review analysis in Chess.com—all without having to pay.
 
@@ -37,9 +37,11 @@ Press the `unlock analysis` button next to **<ins>one game</ins>** in either of 
  
 **<ins>Only press it ONCE</ins>**, or else you may overload the server. 
 
-The backend server will take 10-20 seconds to unlock your analysis. In the meantime, you can navigate away from the page, or do whatever you like. After 20-30 seconds (depending on your internet speed), refresh your page, and click into the analysis of the game whose button you had pressed. 
+The backend server will take 10-20 seconds to unlock your analysis. You will see a loading bar pop up, showing the progress of the unlock. Once bar spans the width of your screen, the unlock (in the supermajority of cases) will have completed, and the extension will automatically refresh your screen. 
 
-The review should be unlocked. If in your profile page/homepage your game has accuracy percentages (as opposed to the text that says `review`), it means the game has been unlocked. If not, click into the game and see if you can access analysis. If it still is locked, wait 30 more seconds and refresh. If still not unlocked, try the "unlock analysis" button.
+In the meantime, you can navigate away from the page, or do whatever you like. After 20-30 seconds (depending on your internet speed), you can check back and click into the analysis of the game whose button you had pressed. 
+
+The review should be unlocked. If in your profile page/homepage your game has accuracy percentages (as opposed to the text that says `review`),it means the game has been unlocked. If it still is locked, wait ~10 more seconds and refresh. If still not unlocked, try the "unlock analysis" button again.
 
 ## Known limitations and errors
 
@@ -53,7 +55,7 @@ This is to say, there are multiple cases where you may be more likely to—and/o
 
 If your internet connection is not as strong, your game log on Chess.com may take too long to load, and, consequently, the button-injection from the extension (1 second after page load) will miss the targeted log. 
 
-This is particularly common the further down on a page you are scrolled, as Chess.com renders elements top-to-bottom and, for some reason, is far slower to render the bottom elements (i.e. your game log). So, if you refresh your page from an existing position that is near the bottom, the buttons may not render.
+This is particularly common the further down on a page you are scrolled, as Chess.com renders elements top-to-bottom and, therefore, is far slower to render the bottom elements (i.e. your game log). So, if you refresh your page from an existing position near the middle or bottom of your page, the buttons may not render.
 
 This is to say, when you refresh your page to see if the analysis has cleared, first scroll to the *top* of the page and then refresh, which should avoid this problem.
 
