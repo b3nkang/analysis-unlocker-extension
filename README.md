@@ -33,7 +33,7 @@ In both locations, the extension will install `unlock analysis` buttons, each co
 
 ## How to 'unlock' analysis (read: *proper* usage)
 
-Make sure you are **<ins>logged in</ins>** to your Chess.com account. Your account doesn't need to have a subscription, but you must be **<ins>logged in</ins>** to any Chess.com account to access Game Review. If you do not have an account, you can register for a free account [here](https://www.chess.com/register).
+Make sure you are **<ins>logged in</ins>** to your Chess.com account. Your account doesn't need to have a subscription, but you must be logged in to *any* Chess.com account to access Game Review. If you do not have an account, you can register for a free account [here](https://www.chess.com/register).
 
 Once you are logged in, press the `unlock analysis` button next to **<ins>one game</ins>** in either of the aforementioned pages. **<ins>Only press it ONCE</ins>**, or else you may overload the server. 
 
