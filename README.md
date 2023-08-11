@@ -33,15 +33,13 @@ In both locations, the extension will install `unlock analysis` buttons, each co
 
 ## How to 'unlock' analysis (read: *proper* usage)
 
-Make sure you are **logged in** to your Chess.com account. Your account doesn't need to have a subscription, but you must be **logged in** to any Chess.com account to access Game Review. If you do not have an account, you can register for a free account [here](https://www.chess.com/register).
+Make sure you are **<ins>logged in</ins>** to your Chess.com account. Your account doesn't need to have a subscription, but you must be **<ins>logged in</ins>** to any Chess.com account to access Game Review. If you do not have an account, you can register for a free account [here](https://www.chess.com/register).
 
-Once you are logged in, press the `unlock analysis` button next to **<ins>one game</ins>** in either of the aforementioned pages.
- 
-**<ins>Only press it ONCE</ins>**, or else you may overload the server. 
+Once you are logged in, press the `unlock analysis` button next to **<ins>one game</ins>** in either of the aforementioned pages. **<ins>Only press it ONCE</ins>**, or else you may overload the server. 
 
 The backend server will take 10-20 seconds to unlock your analysis. You will see a loading bar pop up, showing the progress of the unlock. Once the loading completes, the extension will automatically open your Game Review analysis in a new tab. 
 
-**Do not navigate away from your page while the loading takes page**. You **may** switch tabs, so long as the Chess.com tab with the analysis stays open. If you navigate backwards or forward on the Chess.com page, however, your request may not complete.
+**<ins>Do not navigate away from your page while the loading takes page</ins>**. You **may** switch tabs, so long as the Chess.com tab with the analysis stays open. If you navigate backwards or forward on the Chess.com page, however, your request may not complete.
 
 ## Video Installation and Demo
 
