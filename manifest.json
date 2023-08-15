@@ -1,8 +1,14 @@
 {
     "manifest_version": 3,
-    "name": "Analysis Unlocker - User",
-    "description": "Libre moment for chess, long live free analysis with fancy icons",
-    "version": "0.2.5",
+    "name": "Analysis Unlocker",
+    "description": "Long live free analysis with fancy icons.",
+    "version": "0.2.6",
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
     "content_scripts": [
         {
             "js": ["contentScript.js"],
