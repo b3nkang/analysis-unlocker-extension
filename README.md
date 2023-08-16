@@ -1,4 +1,4 @@
-# Analysis Unlocker (v0.2.6)
+# Analysis Unlocker (v0.2.7)
 
 This is a locally installed (unpacked) Google Chrome extension, built on Manifest V3, that allows you to access subscription-based Game Review analysis in Chess.com—all without having to pay.
 
